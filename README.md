@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gltats
 - 👀 I’m interested in Tech, AI, smartcities, robotics
-- 🌱 I’m currently learning C and JavaScript( so far I have focused in Front-end, API; Bootstrap, React)
+- 🌱 I’m currently learning C and JavaScript( so far I have focused in Front-end, API, Bootstrap, React)
 
 
 [![@gltats's Holopin board](https://holopin.me/gltats)](https://holopin.io/@gltats)
