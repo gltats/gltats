@@ -2,8 +2,8 @@
 - 👀 I’m interested in Tech, AI, smartcities, robotics
 - 🌱 I’m currently learning C and JavaScript( so far I have focused in Front-end, API, Bootstrap, React)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="100"/>
+<div align="right">
+  <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="600"/>
 </div>
 
 
