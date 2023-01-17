@@ -19,6 +19,16 @@
 - 🌱 I’m currently learning C and JavaScript( so far I have focused in Front-end, API, Bootstrap, React)<br>
 </p>
 
+<h2>
+     💻42 School Projects:
+</h2>
+<p>
+  <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png" alt="Libft"/>
+  <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png" alt="Born2beRoot"/>
+  <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png" alt="Ft_printf"/>
+  <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linem.png" alt="Get_next_line"/>
+</p>
+
 <table>
   <tr>
     <td>
@@ -49,7 +59,7 @@
   </p>
 </div>
 
-<img src="https://holopin.me/gltats" alt="@gltats's Holopin board" width="400">
+<img src="https://holopin.me/gltats" alt="@gltats's Holopin board" width="400" align="right">
 
 
 
