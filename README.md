@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/tatiana-s-gomes-lima-1a952117a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="">
+  <a href="https://gltats-portfolio.netlify.app/">
     <img src="https://img.shields.io/badge/-Gltats-ED10F5?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
   <a href="https://github.com/gltats?tab=repositories">
