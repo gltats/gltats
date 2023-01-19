@@ -8,7 +8,9 @@
 </div>
 
 <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/tatiana-s-gomes-lima-1a952117a">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
   <img src="https://img.shields.io/badge/-Gltats-ED10F5?style=for-the-badge" alt="Portfolio Badge"/>
   <img src="https://img.shields.io/badge/-Github-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
 </div>
