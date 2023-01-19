@@ -62,7 +62,9 @@
   <tr>
     <td>
       <div align="center">
-          <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="600"/>
+        <a href= https://git.io/streak-stats>
+          <img src="http://github-readme-streak-stats.herokuapp.com?user=gltats&theme=dark" title="stats"/>
+        </a>
       </div>
     </td>
     <td>
