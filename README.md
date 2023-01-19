@@ -14,7 +14,7 @@
   <a href="">
     <img src="https://img.shields.io/badge/-Gltats-ED10F5?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
-  <a href="">
+  <a href="https://github.com/gltats?tab=repositories">
   <img src="https://img.shields.io/badge/-Github-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
