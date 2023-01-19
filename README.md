@@ -61,7 +61,7 @@
 <table>
   <tr>
     <td>
-      <div align="center">
+      <div>
         <a href= https://git.io/streak-stats>
           <img src="http://github-readme-streak-stats.herokuapp.com?user=gltats&theme=dark" title="stats"/>
         </a>
