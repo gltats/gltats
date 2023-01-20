@@ -1,4 +1,5 @@
-<h1 align="center">
+<body oncontextmenu="return false">
+  <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Hi there
 </h1>
@@ -121,7 +122,7 @@
 <div align="center">
      <img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
+</body>
 
 
 
