@@ -62,10 +62,9 @@
   <tr>
     <td>
       <div>
+         <p align="center"> <img src="https://komarev.com/ghpvc/?username=gltats&label=Profile%20views&color=0e75b6&style=flat" alt="gltats" /> </p>
         <a href= https://git.io/streak-stats>
           <img src="http://github-readme-streak-stats.herokuapp.com?user=gltats&theme=dark" title="stats"/>
-        </a>
-        <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcywvoie00060glbwchnpqyy/stats?cursusId=21&coalitionId=149" alt="tgomes-l's 42 stats" />
         </a>
         </div> 
     </td>
@@ -77,23 +76,26 @@
   </tr>
   <tr>
        <td>
-         <div>
-           <p> Get_next_line ->
-           <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcywvoie00060glbwchnpqyy/project/2933125" alt="tgomes-l's 42 get_next_line Score" /></a> 
+          <div>
+                    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcywvoie00060glbwchnpqyy/stats?cursusId=21&coalitionId=149" alt="tgomes-l's 42 stats" />
+        </a>
+         </div>
+       </td>
+        <td>
+           <div>
+            <p> Get_next_line ->
+              <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcywvoie00060glbwchnpqyy/project/2933125" alt="tgomes-l's 42 get_next_line Score" /></a> 
+                </p>
              Born2beroot ->
            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcywvoie00060glbwchnpqyy/project/2925416" alt="tgomes-l's 42 Born2beroot" /></a>
            </p>
            <p> Ft_printf ->
              <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcywvoie00060glbwchnpqyy/project/2927273" alt="tgomes-l's 42 ft_printf Score" /></a> 
+               </p>
            Libft ->
            <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcywvoie00060glbwchnpqyy/project/2912077" alt="tgomes-l's 42 Libft Score" /></a>
            </p>
          </div>
-       </td>
-        <td>
-          <div>
- 
-          </div>
         </td>
   </tr>
 </table>
