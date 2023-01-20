@@ -18,6 +18,9 @@
   <img src="https://img.shields.io/badge/-Github-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </div>
+<div>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=gltats&label=Profile%20views&color=0e75b6&style=flat" alt="gltats" /> </p>
+</div>
 
 <p>
 - 👩🏻‍💻 I’m gltats <br>
@@ -58,19 +61,18 @@
   </tr>
 </table>
   
-<table>
+<table  align="center">
   <tr>
     <td>
       <div>
-         <p align="center"> <img src="https://komarev.com/ghpvc/?username=gltats&label=Profile%20views&color=0e75b6&style=flat" alt="gltats" /> </p>
-        <a href= https://git.io/streak-stats>
-          <img src="http://github-readme-streak-stats.herokuapp.com?user=gltats&theme=dark" title="stats"/>
+        <a href= https://github.com/anuraghazra/github-readme-stats>
+          <img src="https://github-readme-stats.vercel.app/api?username=gltats&theme=synthwave" title="stats"/>
         </a>
         </div> 
     </td>
     <td>
       <div align="center">
-          <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="400"/>
+          <img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="350" height="200"/>
       </div>
     </td>
   </tr>
@@ -98,11 +100,31 @@
          </div>
         </td>
   </tr>
-</table>
-
-<div align="center">
-<img src="https://holopin.me/gltats" alt="@gltats's Holopin board" width="800" height="200">
+  <tr>
+       <td>
+       <div align="center">
+     <img src="https://media.giphy.com/media/UQJ6622poOlVZ5XXGO/giphy.gif" width="200" height="200"/>    
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=1143483495&redirect=true">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=1143483495&cover_image=true&theme=compact&show_offline=false&background_color=813696" alt="Spotify profile" width="200" height="200">
+</a>
 </div>
+       </td>  
+    <td>
+       <div align="center">
+          <a href= https://github.com/anuraghazra/github-readme-stats>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gltats&layout=compact" media="(prefers-color-scheme: synthwave)" title="Top langs"/>
+          </a>
+      </div>
+    </td>  
+  </tr>
+</table>
+<div align="center">
+     <img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+
+
+
 
 
 
