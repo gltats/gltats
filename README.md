@@ -67,7 +67,7 @@
     <td>
       <div>
         <a href= https://github.com/anuraghazra/github-readme-stats>
-          <img src="https://github-readme-stats.vercel.app/api?username=gltats&theme=synthwave" title="stats"/>
+          <img src="https://github-readme-stats.vercel.app/api?username=gltats&show_icons=true&theme=radical" title="stats"/>
         </a>
         </div> 
     </td>
@@ -104,16 +104,16 @@
   <tr>
        <td>
        <div align="center">
-     <img src="https://media.giphy.com/media/UQJ6622poOlVZ5XXGO/giphy.gif" width="200" height="200"/>    
+     <img src="https://media.giphy.com/media/UQJ6622poOlVZ5XXGO/giphy.gif" width="250" height="250"/>    
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=1143483495&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=1143483495&cover_image=true&theme=compact&show_offline=false&background_color=813696" alt="Spotify profile" width="200" height="200">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=1143483495&cover_image=true&theme=compact&show_offline=false&background_color=813696" alt="Spotify profile" width="250" height="250">
 </a>
 </div>
        </td>  
     <td>
        <div align="center">
           <a href= https://github.com/anuraghazra/github-readme-stats>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gltats&layout=compact" media="(prefers-color-scheme: synthwave)" title="Top langs"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gltats" width="250"/>
           </a>
       </div>
     </td>  
