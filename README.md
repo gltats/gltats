@@ -86,6 +86,8 @@
        </td>
         <td>
            <div>
+             <p> Push_swap ->
+             <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcywvoie00060glbwchnpqyy/project/2942898" alt="tgomes-l's 42 push_swap Score" /></a>
             <p> Get_next_line ->
               <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcywvoie00060glbwchnpqyy/project/2933125" alt="tgomes-l's 42 get_next_line Score" /></a> 
                 </p>
