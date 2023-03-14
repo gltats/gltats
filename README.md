@@ -39,7 +39,8 @@
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png" alt="Libft" width="70" height="70"/>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png" alt="Born2beRoot" width="70" height="70"/>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png" alt="Ft_printf" width="70" height="70"/>
-        <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linem.png" alt="Get_next_line" width="70" height="70"/>
+        <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png" alt="Get_next_line" width="70" height="70"/>
+        <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png" alt="Pipex" width="70" height="70"/>
       </p>
       </div>
     </td>
@@ -78,34 +79,6 @@
     </td>
   </tr>
   <tr>
-       <td>
-          <div>
-                    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcywvoie00060glbwchnpqyy/stats?cursusId=21&coalitionId=149" alt="tgomes-l's 42 stats" />
-        </a>
-         </div>
-       </td>
-        <td>
-           <div>
-             <p> So_long ->
-             <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcywvoie00060glbwchnpqyy/project/2942898" alt="tgomes-l's 42 push_swap Score" /></a>
-             <p> Pipex ->
-             <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcywvoie00060glbwchnpqyy/project/2942898" alt="tgomes-l's 42 push_swap Score" /></a>                       
-             <p> Push_swap ->
-             <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcywvoie00060glbwchnpqyy/project/2942898" alt="tgomes-l's 42 push_swap Score" /></a>
-            <p> Get_next_line ->
-              <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcywvoie00060glbwchnpqyy/project/2933125" alt="tgomes-l's 42 get_next_line Score" /></a> 
-                </p>
-             Born2beroot ->
-           <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcywvoie00060glbwchnpqyy/project/2925416" alt="tgomes-l's 42 Born2beroot" /></a>
-           </p>
-           <p> Ft_printf ->
-             <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcywvoie00060glbwchnpqyy/project/2927273" alt="tgomes-l's 42 ft_printf Score" /></a> 
-               </p>
-           Libft ->
-           <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clcywvoie00060glbwchnpqyy/project/2912077" alt="tgomes-l's 42 Libft Score" /></a>
-           </p>
-         </div>
-        </td>
   </tr>
   <tr>
        <td>
