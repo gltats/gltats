@@ -1,13 +1,13 @@
 <body oncontextmenu="return false">
   <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hi there
+  Hi there      
 </h1>
 
 <div align="center">
-      <img src="https://media.giphy.com/media/C4aIGJk8IIAzAWkiHS/giphy.gif" width="200"/>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/tgomes-l?1337Badge=off&UM6P=off" width="400" alt="tgomes-l's 42 stats" /></a>
 </div>
-
+<br>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/tatiana-s-gomes-lima-1a952117a">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,14 +22,12 @@
 <div>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=gltats&label=Profile%20views&color=0e75b6&style=flat" alt="gltats" /> </p>
 </div>
-
 <p>
 - 👩🏻‍💻 I’m gltats <br>
 - 👀 I’m interested in Tech, AI, smartcities, robotics<br>
 - 🌱 I’m currently learning C and JavaScript( so far I have focused in Front-end, API, Bootstrap, React)<br>
 </p>
-
-  
+<br>
 <table align="center">
   <tr>
     <td>
@@ -87,7 +85,7 @@
   <tr>
        <td>
        <div align="center">
-     <img src="https://media.giphy.com/media/UQJ6622poOlVZ5XXGO/giphy.gif" width="250" height="250"/>    
+     <img src="https://media.giphy.com/media/UQJ6622poOlVZ5XXGO/giphy.gif" width="200" height="200" />    
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=1143483495&redirect=true">
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=1143483495&cover_image=true&theme=compact&show_offline=false&background_color=813696" alt="Spotify profile" width="250" height="250">
 </a>
