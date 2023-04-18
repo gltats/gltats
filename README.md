@@ -25,7 +25,7 @@
 <p>
 - 👩🏻‍💻 I’m gltats <br>
 - 👀 I’m interested in Tech, AI, smartcities, robotics<br>
-- 🌱 I’m currently learning C and JavaScript( so far I have focused in Front-end, API, Bootstrap, React)<br>
+- 🌱 I’m currently learning C and JavaScript<br>
 </p>
 <br>
 <table align="center">
