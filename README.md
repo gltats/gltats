@@ -42,6 +42,7 @@
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png" alt="Pipex" width="70" height="70"/>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longe.png" alt="So_long" width="70" height="70"/>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png" alt="Push_Swap" width="70" height="70"/>
+        <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png" alt="Mini_Shell" width="70" height="70"/>
       </p>
       </div>
     </td>
