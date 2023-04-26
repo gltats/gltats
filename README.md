@@ -86,9 +86,9 @@
   <tr>
        <td>
        <div align="center">
-     <img src="https://media.giphy.com/media/UQJ6622poOlVZ5XXGO/giphy.gif" width="200" height="200" />    
+     <img src="https://media.giphy.com/media/UQJ6622poOlVZ5XXGO/giphy.gif" width="190" height="190" />    
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=1143483495&redirect=true">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=1143483495&cover_image=true&theme=compact&show_offline=false&background_color=813696" alt="Spotify profile" width="250" height="250">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=1143483495&cover_image=true&theme=compact&show_offline=false&background_color=813696" alt="Spotify profile" width="200" height="200">
 </a>
 </div>
        </td>  
