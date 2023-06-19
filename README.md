@@ -65,7 +65,7 @@
     </td>
   </tr>
 </table>
-  
+
 <table  align="center">
   <tr>
     <td>
@@ -104,6 +104,12 @@
 <div align="center">
      <img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+<div>
+<h3>Badges:</h3>
+<p>https://py.checkio.org/user/guest_6562697/badges/learner-level/</p>
+</div>
+
 </body>
 
 
