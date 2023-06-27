@@ -24,8 +24,8 @@
 </div>
 <p>
 - 👩🏻‍💻 I’m gltats <br>
-- 👀 I’m interested in Tech, AI, smartcities, robotics<br>
-- 🌱 I’m currently learning C and JavaScript<br>
+- 👀 I’m interested in Tech, AI, cibersecurity, smartcities, robotics<br>
+- 🌱 I’m currently learning C, JavaScript, Python, SQL<br>
 </p>
 <br>
 <table align="center">
