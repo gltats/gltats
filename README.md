@@ -39,12 +39,14 @@
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png" alt="Ft_printf" width="70" height="70"/>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png" alt="Get_next_line" width="70" height="70"/>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png" alt="Pipex" width="70" height="70"/>
-        <br>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longe.png" alt="So_long" width="70" height="70"/>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png" alt="Push_Swap" width="70" height="70"/>
+        <br>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png" alt="Mini_Shell" width="70" height="70"/>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png" alt="Philosophers" width="70" height="70"/>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png" alt="Cub3d" width="70" height="70"/>
+        <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png" alt="CPP" width="70" height="70"/>
+        <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png" alt="NetPractice" width="70" height="70"/>
       </p>
       </div>
     </td>
