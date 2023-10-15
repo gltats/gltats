@@ -107,8 +107,9 @@
 <div align="center">
      <img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
-
-
+<a href="https://holopin.io/@gltats">
+  <img src="https://holopin.me/gltats" alt="An image of @gltats's Holopin badges, which is a link to view their full Holopin profile">
+</a>
 </body>
 
 
