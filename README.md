@@ -47,6 +47,8 @@
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png" alt="Cub3d" width="70" height="70"/>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png" alt="CPP" width="70" height="70"/>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png" alt="NetPractice" width="70" height="70"/>
+        <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/webserve.png" alt="Webserv" width="70" height="70"/>
+        <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png" alt="Inception" width="70" height="70"/>
       </p>
       </div>
     </td>
