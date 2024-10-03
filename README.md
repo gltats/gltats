@@ -48,7 +48,7 @@
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png" alt="CPP" width="70" height="70"/>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png" alt="NetPractice" width="70" height="70"/>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png" alt="Inception" width="70" height="70"/>
-        <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/irce.png" alt="IRC" width="70" height="70"/>
+        <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_irce.png" alt="IRC" width="70" height="70"/>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencee.png" alt="Transcendence" width="70" height="70"/>
       </p>
       </div>
