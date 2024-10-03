@@ -24,8 +24,8 @@
 </div>
 <p>
 - 👩🏻‍💻 I’m gltats <br>
-- 👀 I’m interested in Tech, AI, cibersecurity, smartcities, robotics<br>
-- 🌱 I’m currently learning C, JavaScript, Python, SQL<br>
+- 👀 I’m interested Front-end Development and tech<br>
+
 </p>
 <br>
 <table align="center">
@@ -47,11 +47,12 @@
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cub3de.png" alt="Cub3d" width="70" height="70"/>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/cppe.png" alt="CPP" width="70" height="70"/>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticee.png" alt="NetPractice" width="70" height="70"/>
-        <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/webserve.png" alt="Webserv" width="70" height="70"/>
         <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/inceptione.png" alt="Inception" width="70" height="70"/>
+        <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/irce.png" alt="IRC" width="70" height="70"/>
+        <img src="https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencee.png" alt="Transcendence" width="70" height="70"/>
       </p>
       </div>
-    </td>
+    </td>    
   <td>
     </td>
     <td>
