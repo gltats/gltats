@@ -3,9 +3,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Hi there      
 </h1>
-
 <div align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/tgomes-l?1337Badge=off&UM6P=off" width="400" alt="tgomes-l's 42 stats" /></a>
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/colorfulwaves/tgomes-l?1337Badge=off&UM6P=off" width="400" alt="tgomes-l's 42 stats">
+  </a>
 </div>
 <br>
 <div id="badges" align="center">
