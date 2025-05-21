@@ -24,8 +24,8 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=gltats&label=Profile%20views&color=0e75b6&style=flat" alt="gltats" /> </p>
 </div>
 <p>
-- 👩🏻‍💻 I’m gltats <br>
-- 👀 I’m interested Front-end Development and tech<br>
+- 👩🏻‍💻 I’m Sofia <br>
+- 💻 Community Builder in Tech<br>
 
 </p>
 <br>
